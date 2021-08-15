@@ -1,4 +1,4 @@
 vcs_repo = {
   branch = "main"
-  identifier = "eltonmmoreira/demo-terraform"
+  identifier = "eltonmmoreira/terraform-demo-pipeline/hello-world-EC2"
 }
